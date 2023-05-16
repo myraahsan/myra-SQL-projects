@@ -1,2 +1,2 @@
 # myraahsanSQL
-This will have all my SQL projects
+This has all my SQL projects
